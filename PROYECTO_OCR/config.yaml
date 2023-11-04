@@ -1,0 +1,6 @@
+path: /home/phillip/Desktop/todays.tutorial/38_yolov3_train_custom_model/code/data # dataset root dir
+train: images/train train images (relative to 'path')
+val: /images/train #vol images (relative to "path")
+# Closses
+names:
+8: alpaca
