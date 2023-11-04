@@ -1,6 +1,16 @@
-path: /home/phillip/Desktop/todays.tutorial/38_yolov3_train_custom_model/code/data # dataset root dir
-train: images/train train images (relative to 'path')
-val: /images/train #vol images (relative to "path")
-# Closses
-names:
-8: alpaca
+
+train: D:\Procesamiento\PDSeI-2023-SofiaMoreno\PROYECTO_OCR\Data\Train
+val: D:\Procesamiento\PDSeI-2023-SofiaMoreno\PROYECTO_OCR\Data\Val
+
+names: 
+  0: Bicycle
+  1: Building
+  2: Car
+  3: Cat
+  4: Dog
+  5: Person
+  6: Motorcycle
+  7: "Street light"
+  8: "Traffic light"
+  9: "Traffic sign"
+  10: Tree
