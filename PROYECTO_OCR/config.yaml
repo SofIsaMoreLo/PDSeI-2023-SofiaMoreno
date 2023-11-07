@@ -1,16 +1,18 @@
 
-train: D:\Procesamiento\PDSeI-2023-SofiaMoreno\PROYECTO_OCR\Data\Train
-val: D:\Procesamiento\PDSeI-2023-SofiaMoreno\PROYECTO_OCR\Data\Val
+train: C:/Users/ASUS/Desktop/PROYECTO_OCR/PDSeI-2023-SofiaMoreno/PROYECTO_OCR/Data/train
+val: C:/Users/ASUS/Desktop/PROYECTO_OCR/PDSeI-2023-SofiaMoreno/PROYECTO_OCR/Data/val
+
+nc: 11
 
 names: 
-  0: Bicycle
-  1: Building
-  2: Car
-  3: Cat
-  4: Dog
-  5: Person
-  6: Motorcycle
-  7: "Street light"
-  8: "Traffic light"
-  9: "Traffic sign"
-  10: Tree
+  0: Bicicleta
+  1: Edificio
+  2: Coche
+  3: Gato
+  4: Perro
+  5: Persona
+  6: Motocicleta
+  7: Poste
+  8: Semaforo
+  9: Señales
+  10: Árbol
