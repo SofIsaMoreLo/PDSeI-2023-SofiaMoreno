@@ -6,13 +6,13 @@ nc: 11
 
 names: 
   0: Bicicleta
-  1: Edificio
+  
   2: Coche
-  3: Gato
+
   4: Perro
   5: Persona
   6: Motocicleta
   7: Poste
   8: Semaforo
-  9: Señales
-  10: Árbol
+  
+  10: Arbol

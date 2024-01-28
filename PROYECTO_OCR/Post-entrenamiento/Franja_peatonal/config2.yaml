@@ -1,0 +1,8 @@
+
+train: C:/Users/ASUS/Desktop/PROYECTO_OCR/PDSeI-2023-SofiaMoreno/PROYECTO_OCR/Post-entrenamiento/Franja_peatonal/Data/train
+val: C:/Users/ASUS/Desktop/PROYECTO_OCR/PDSeI-2023-SofiaMoreno/PROYECTO_OCR/Post-entrenamiento/Franja_peatonal/Data/val
+
+nc: 1
+
+names: 
+  0: Franja_Peatonal
