@@ -2,5 +2,5 @@ from ultralytics import YOLO
 
 model = YOLO("yolov8n.pt")
 
-model.train(data = "config2.yaml" , epochs=20, batch = 64, imgsz=640)
+model.train(data = "Post-entrenamiento\Franja_peatonal\config2.yaml" , epochs=20, imgsz=640)
 
