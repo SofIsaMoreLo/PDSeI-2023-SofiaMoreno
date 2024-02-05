@@ -1,7 +1,6 @@
 
-train: C:/Users/ASUS/Desktop/PROYECTO_OCR/PDSeI-2023-SofiaMoreno/PROYECTO_OCR/Data/train
-val: C:/Users/ASUS/Desktop/PROYECTO_OCR/PDSeI-2023-SofiaMoreno/PROYECTO_OCR/Data/val
-
+train: C:\Users\User\Downloads\PDSeI\PDSeI-2023-SofiaMoreno\PROYECTO_OCR\Data\train
+val: C:\Users\User\Downloads\PDSeI\PDSeI-2023-SofiaMoreno\PROYECTO_OCR\Data\val
 nc: 11
 
 names: 
