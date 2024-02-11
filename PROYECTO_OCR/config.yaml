@@ -1,18 +1,20 @@
+names:
+- Bicycle
+- Car
+- Crosswalk
+- Green-Light
+- Motorcycle
+- Red-Light
+- Street-Light
+- Tree
+- person
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: data-n8xqd
+  url: https://universe.roboflow.com/andres-pjrn7/data-n8xqd/dataset/1
+  version: 1
+  workspace: andres-pjrn7
 
-train: C:/Users/ASUS/Desktop/PROYECTO_OCR/PDSeI-2023-SofiaMoreno/PROYECTO_OCR/Data/train
-val: C:/Users/ASUS/Desktop/PROYECTO_OCR/PDSeI-2023-SofiaMoreno/PROYECTO_OCR/Data/val
-
-nc: 11
-
-names: 
-  0: Bicicleta
-  1: Edificio
-  2: Coche
-  3: Gato
-  4: Perro
-  5: Persona
-  6: Motocicleta
-  7: Poste
-  8: Semaforo
-  9: Seniales
-  10: Arbol
+train: ../train
+val: ../valid
