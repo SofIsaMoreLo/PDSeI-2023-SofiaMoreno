@@ -16,24 +16,6 @@ roboflow:
   version: 1
   workspace: andres-pjrn7
 
-<<<<<<< HEAD
 train: ../train
 val: ../valid
-=======
-train: C:\Users\User\Downloads\PDSeI\PDSeI-2023-SofiaMoreno\PROYECTO_OCR\Data\train
-val: C:\Users\User\Downloads\PDSeI\PDSeI-2023-SofiaMoreno\PROYECTO_OCR\Data\val
-nc: 11
 
-names: 
-  0: Bicicleta
-  1: Edificio
-  2: Coche
-  3: Gato
-  4: Perro
-  5: Persona
-  6: Motocicleta
-  7: Poste
-  8: Semaforo
-  9: Seniales
-  10: Arbol
->>>>>>> fc445c27598396359953905dff2e165430e5e9b2
