@@ -10,7 +10,7 @@ RED_LINE = [(110, 250), (575, 250)]
 
 if __name__ =='__main__':
 
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture("video_test.mp4")
     model = YOLO("best.pt")
     tracker = Sort()
 
