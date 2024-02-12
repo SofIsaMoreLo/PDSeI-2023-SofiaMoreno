@@ -29,6 +29,9 @@ if __name__ =='__main__':
             tracks = tracker.update(boxes)
             tracks = tracks.astype(int)
 
+            for xmin, ymin, xmax, ymax, track_id in tracks:
+                cv2.rectangle(img=frame, pt1=(xmin,ymin), pt2=(xmax, ymax), color=(255, 255, 0), thickness=2)
+
         cv2.line(frame, BLUE_LINE[0], BLUE_LINE[1], (255,0,0), 3)
         cv2.line(frame, GREEN_LINE[0], GREEN_LINE[1], (0,255,0), 3)
         cv2.line(frame, RED_LINE[0], RED_LINE[1], (0,0,255), 3)
