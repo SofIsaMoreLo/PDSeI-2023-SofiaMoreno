@@ -3,7 +3,7 @@ import cv2
 
 model = YOLO('best.pt')
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture("video_test_5")
 
 while True:
 
