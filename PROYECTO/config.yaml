@@ -1,0 +1,21 @@
+names:
+- Bicycle
+- Car
+- Crosswalk
+- Green-Light
+- Motorcycle
+- Red-Light
+- Street-Light
+- Tree
+- person
+nc: 9
+roboflow:
+  license: CC BY 4.0
+  project: data-n8xqd
+  url: https://universe.roboflow.com/andres-pjrn7/data-n8xqd/dataset/1
+  version: 1
+  workspace: andres-pjrn7
+
+train: ../train
+val: ../valid
+
